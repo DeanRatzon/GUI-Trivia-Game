@@ -4,7 +4,7 @@ This project is a Trivia game which was created as part of the "Advanced Java Pr
 *In order to change, delete or add questions , open the trivia.txt file in the project directory and use the following format:
 
 A trivia question writing format:
-1st line - question
+1st line - question<br>
 2nd line - correct answer
 3rd line - answer option
 4th line - answer option
