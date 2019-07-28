@@ -1,0 +1,50 @@
+What is 1+1?
+2
+1
+4
+3
+What is the Capital City of Israel?
+Jerusalem
+Tel Aviv
+Haifa
+Eilat
+What is 49/7
+7
+13
+6
+9
+Who invented the Light Bulb?
+Thomas Eddison
+Benjamin Franklin
+Nicola Tesla
+Alexander Flemming
+What is 300\10
+30
+11
+35
+27
+How many weeks are in a full year?
+52
+49
+51
+48
+What is the Highest Mountain in the world?
+Mount Everest
+Mount Hermon
+Mount Annapurna
+Mount Kangchenjunga
+What animal group does the Whale belong to?
+Mammals
+Birds
+Reptiles
+Amphibians
+What color do you get by mixing Blue and Red?
+Purple
+Orange
+Green
+Pink
+In what year was the Turing Machine invented?
+1936
+1972
+1943
+1921
