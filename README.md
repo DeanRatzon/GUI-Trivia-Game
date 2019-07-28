@@ -1,21 +1,21 @@
 # Trivia-Game
 This project is a Trivia game which was created as part of the "Advanced Java Programming" course in my University studies.
 
-*In order to change, delete or add questions , open the trivia.txt file in the project directory and use the following format:
+*In order to change, delete or add questions , open the trivia.txt file in the project directory and use the following format:<br>
 
-A trivia question writing format:
+A trivia question writing format:<br>
 1st line - question<br>
-2nd line - correct answer
-3rd line - answer option
-4th line - answer option
-5th line - answer option
+2nd line - correct answer<br>
+3rd line - answer option<br>
+4th line - answer option<br>
+5th line - answer option<br>
 
-For example:
-What is 1+1?
-2
-1
-4
-3
+For example:<br>
+What is 1+1?<br>
+2<br>
+1<br>
+4<br>
+3<br>
 
 Please note:
 *Each question should have excatly 4 answers options.
