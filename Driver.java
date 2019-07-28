@@ -1,6 +1,5 @@
 
 /**This Program represents a GUI Trivia game 
- * Maman 13 Question B
  * @author Dean Ratzon	
  * @version 03/12/18
  * 
