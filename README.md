@@ -20,4 +20,6 @@ What is 1+1?<br>
 Please note:<br>
 *Each question should have excatly 4 answers options.<br>
 *Different questions should have a single empty line inbetween them. <br>
-*When a question loads the answers will be positioned randomly (in different locations every time) so dont worry about the correct answer writing the correct answer first everytime.
+*When a question loads,
+ the answers will be positioned randomly (in different locations every time) so dont worry about 
+writing the correct answer first everytime.
